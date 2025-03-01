@@ -1,0 +1,12 @@
+D:\CS2-Plugin\testplugin#1\bin\Release\net8.0\testplugin#1.deps.json
+D:\CS2-Plugin\testplugin#1\bin\Release\net8.0\testplugin#1.dll
+D:\CS2-Plugin\testplugin#1\bin\Release\net8.0\testplugin#1.pdb
+D:\CS2-Plugin\testplugin#1\obj\Release\net8.0\testplugin#1.csproj.AssemblyReference.cache
+D:\CS2-Plugin\testplugin#1\obj\Release\net8.0\testplugin#1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS2-Plugin\testplugin#1\obj\Release\net8.0\testplugin#1.AssemblyInfoInputs.cache
+D:\CS2-Plugin\testplugin#1\obj\Release\net8.0\testplugin#1.AssemblyInfo.cs
+D:\CS2-Plugin\testplugin#1\obj\Release\net8.0\testplugin#1.csproj.CoreCompileInputs.cache
+D:\CS2-Plugin\testplugin#1\obj\Release\net8.0\testplugin#1.dll
+D:\CS2-Plugin\testplugin#1\obj\Release\net8.0\refint\testplugin#1.dll
+D:\CS2-Plugin\testplugin#1\obj\Release\net8.0\testplugin#1.pdb
+D:\CS2-Plugin\testplugin#1\obj\Release\net8.0\ref\testplugin#1.dll
